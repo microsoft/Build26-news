@@ -40,11 +40,11 @@ A second AI model (different model family than the generator) checks every state
 Each blog's PR owner reviews only their section of the index. Sign-off required before publish.
 
 ### Gate 4: Transparency
-This methodology and the generation prompt are published so the process is reproducible.
+This methodology and the generation prompt are published so the process is open and reproducible.
 
 ## Testing
 
-Prompt variants were tested against Build 2025 blog content (21 posts). Results are available at [mikki_microsoft/build-news-index-test](https://github.com/mikki_microsoft/build-news-index-test).
+Prompt variants were tested against Build 2025 blog content (21 posts).
 
 ### Key Findings
 
