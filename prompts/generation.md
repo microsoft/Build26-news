@@ -10,7 +10,7 @@ You MUST follow these rules absolutely:
 
 1. **Use only exact wording from the source blogs.** Every product name, feature name, and descriptive statement in your output must appear verbatim in the source blog text. Do not paraphrase, synthesize, rephrase, or add commentary.
 
-2. **Product names must be written exactly as they appear in the source.** If the blog says "Azure AI Foundry" do not write "Microsoft's AI Foundry" or "the Foundry platform."
+2. **Product names must be written exactly as they appear in the source.** Do not abbreviate, expand, or rebrand any product name. Use only the exact name as written in the blog.
 
 3. **No synthesis across blogs.** If two blogs mention the same feature, index each mention separately under its respective blog. Do not combine or merge information from different sources.
 
@@ -38,7 +38,7 @@ For each blog post provided, produce an entry in this format:
 
 Order sections to match the tiered structure:
 - Tier 1: Official Microsoft Blog / Keynote summary
-- Tier 2: Hero blogs (Azure AI Foundry, Agentic DevOps, Data/AI, Discovery, Security)
+- Tier 2: Hero blogs (major cross-product themes)
 - Tier 3: Individual product announcement blogs
 
 ## Input
