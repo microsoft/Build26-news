@@ -40,7 +40,7 @@ A second AI model (different model family than the generator) checks every state
 Each blog's PR owner reviews only their section of the index. Sign-off required before publish.
 
 ### Gate 4: Transparency
-This file. The prompt is published. The provenance is clear.
+This methodology and the generation prompt are published so the process is reproducible.
 
 ## Testing
 
