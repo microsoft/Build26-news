@@ -4,7 +4,7 @@ This repository contains a structured index of announcements from Microsoft Buil
 
 ## For Developers
 
-If you're using the Build CLI or an AI agent to explore "what's new," this index is what powers the recommendations. It's organized by product area and tagged for matching against your tech stack.
+If you're using the [Build CLI](https://github.com/microsoft/build-cli) or its skill to explore "what's new," this index is what powers the news updates for your agent. It's organized by product area and tagged for matching against your tech stack.
 
 ## Official Sources
 
@@ -24,4 +24,4 @@ This index is AI-generated using a quotes-only extraction prompt, verified by mu
 
 ## Questions?
 
-Open an issue or reach out to the Build developer experience team.
+Open an issue!
