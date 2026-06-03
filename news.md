@@ -29,7 +29,7 @@ Structured index of announcements from Microsoft Build 2026 (June 2, 2026). Each
 **Blog**: https://aka.ms/AA10pe80
 
 1. **Microsoft Scout**: "a new personal agent for work that we are bringing to Frontier customers today"
-2. **Microsoft Scout**: "Built on OpenClaw and WorkIQ, Scout understands how you work, uses the tools you already live in, like Teams and Outlook, and proactively handles things like meeting prep, scheduling conflicts and routine tasks without asking"
+2. **Microsoft Scout**: "Built on OpenClaw and WorkIQ, Microsoft Scout understands how you work, uses the tools you already live in, like Teams and Outlook, and proactively handles things like meeting prep, scheduling conflicts and routine tasks without asking"
 
 ### 3. MAI Model Family
 **Products**: MAI-Thinking-1, MAI-Image-2.5, MAI-Voice-2, MAI-Transcribe 1.5, MAI-Code-1
