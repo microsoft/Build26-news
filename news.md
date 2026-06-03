@@ -905,16 +905,6 @@ _Note: This URL resolves to a customer testimonial page, not a standalone blog p
 
 ---
 
-### 3. Confidential VMs now support live migration in public preview
-**Products**: Azure Confidential VMs
-**Blog**: https://aka.ms/cvm-live-migration-at-build-2026
-
-1. **Confidential VMs live migration public preview**: "Confidential VMs now support live migration in public preview" (published Jun 02, 2026)
-
-> **Note:** Full blog content could not be extracted — only the title and publication date were confirmed. The landing page returned generic Azure Confidential Computing overview content.
-
----
-
 # Batch 8: Post-Keynote — More for Developers, part 2 + Windows — Tier 3
 
 ## Summary
